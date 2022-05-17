@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "First feedback item 1  from the database"
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "First feedback item 2  from the database"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "text": "First feedback item 3  from the database"
+    },
+    {
+      "text": "Tomorrow a is a check up",
+      "rating": 8,
+      "id": 11
+    },
+    {
+      "text": "Another POST test",
+      "rating": 5,
+      "id": 12
+    }
+  ]
+}
